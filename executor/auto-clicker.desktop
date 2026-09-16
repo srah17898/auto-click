@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Auto Clicker Linux Executor
+Comment=Agente local de automación de mouse y teclado para el panel web.
+Exec=bash -c "cd $(dirname %k) && ./start.sh"
+Icon=utilities-terminal
+Terminal=true
+Categories=Utility;Development;
+StartupNotify=true

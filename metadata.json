@@ -1,0 +1,6 @@
+{
+  "name": "Auto Clicker Linux",
+  "description": "Painel de controle moderno para configurar, gravar e executar tarefas automatizadas de mouse e teclado em sistemas Linux com segurança.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
